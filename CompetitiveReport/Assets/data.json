@@ -1,0 +1,69 @@
+{
+	"intro":{
+		"name":"Competitive Analysis",
+    "author1":"Alberto Medina",
+    "author2":"Juan Suarez",
+    "info":"Hello, welcome to our competitive analysis on Tripadvisor, Goolge travel and Kayak."
+	},
+	"products":[
+    {
+        "name":"Tripadvisor Hotels & Vacation",
+      "rating": "4.7",
+      "details": "Plan your vacation and book an amazing trip, with millions of travel recommendations and reviews from travelers like you on hotels, must-do experiences, top places to eat and other nearby vacation hidden gems. When you open the website, you immediately get the option to log in to your account through your Gmail accounts or by creating an account. Even if you're not logged in, the main goal of Tripadvisor is to allow users to find hotels, vacation rentals, things to do, flights, or restaurants and even allows users to write a review or read travel forums.",
+      "url": "https://www.tripadvisor.com/",
+      "picture": "tripadvisor.png",
+      "tag" : "Tripadvisor",
+      "about" : "",
+      "pros" : ["You can see reviews from real users",
+                "Lets you see deals from other websites",
+                "Gives you access to contract a travel planner",
+                "App is very user friendly",
+                "Offline city guides"],
+      "cons" : ["Can't book hotels or flights directly on their website",
+                "You cant communicate with an Agent in the moment",
+                "It has so many features that it could be overwhelming"]
+	},
+    {
+        "name":"Google Travel",
+        "rating": "n/a",
+        "details": "The Google Travel webpage automatically takes you to their trips homepage but also displays the options to go into the sections for Things to Do, Flights, Hotels, or Vacation Rentals. The main goal of this website is to give users access to all the different travel booking websites in just one site. Below the Trips homepage, it shows you your past trips and allows users to access their itinerary for these trips. It also has the option of sharing this past trip with other users so they can get ideas from yours. The most frequently visited part of the Google Travel website is the flights sections. You can choose where you want to depart and leave the destination part in blank so the website can you give you a variety of destination options. This allows users to choose destinations depending on their price. Users can also choose the amount of days they want to spend in a location, and the website will give them different date options and their prices. The date grid and price graph gives users access to more ways to compare prices, destinations, and dates.",
+        "url": "https://www.google.com/travel/",
+        "picture": "googletravel.png",
+        "tag" : "Google Travel",
+        "about" : "",
+        "pros" : ["Website is very clean and user friendly. You can easily understand it.",
+                "Date Grid and Price Graph",
+                "Gives you access to past trips and youre able to share it with other users.",
+                "Gives you access to popular questions and articles from your destination",
+                "You can turn on alerts for when prices change."],
+        "cons" : ["No mobile app for the booking options.",
+                "Cant book directly on their website",
+                "You cant see reviews from users",
+                "Dont have access to an agent or be able to get a travel planner."]
+    },
+    {
+        "name":"Kayak",
+        "rating": "4.8",
+        "details": "When you open up kayak.com it open up in their rental car section. It seems strange that a travel website open up to this section but it might be a marketing strategy to remind users that they can find rental cars in their website. The main goal of Kayak is to be a travel search engine where users can find everything they need for a trip. Something that sets them apart from the other products is that they have different categories that other websites dont have. For example, they have a section for Trains. It is not very common to find this section in travel websites. It makes it much easier for a user to find all the bookings he needs in just one website. Similar to Tripadvisor and Google Travel, it compares prices from other websites and directs you to these websites to do the bookings. They also gives user the option to track prices and has many filter options so you can find your ideal iterinary. Another differentiating factor is that thet also have a deals page where you can see thousands of travel deals from all over.",
+        "url": "https://www.kayak.com/horizon/sem/hotels/general?lang=en&skipapp=true&destination=c5623&kw=-1&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYpGFgcEcUB5jqibgbZ91sT-G03_nNlh3avPuMM-aaTwpC3omFfBaFMaAniwEALw_wcB&g_kw=kayak&aid=103175289976",
+        "picture": "kayak.png",
+        "tag" : "Kayak",
+        "about" : "",
+        "pros" : ["Has differentiating sections like Trains and Packages.",
+                "Has a flight tracker option where you can see flights in real time.",
+                "The deals page gives you access to deals all over the world.",
+                "Business Travel"],
+        "cons" : ["Does not allow you to create a trip and have all of your iterinary in one place.",
+                "The website seems to have alot going on which is not easy for the eye.",
+                "No access to agent", 
+                "No reviews from users"]
+    }
+	],
+    "takeaway":{
+	"info": "Tripadvisors advantage is that you can see reviews and ratings from real users. This is their distinguishing feature because it makes your bookings more reliable. This product is the only one if the city guides feature from these three. Google Travel is the most user friendly website because it is very easy to use and gives you access to prices from all over. Although, they should create an app so users can access this search engine from anywhere. Kayak has some interesting features such as trains, deals, and packages which the other two dont have. The website could be a bit more user friendly by not having so many things at once. Their new business trips feature will be one that sets them apart from competitors.",
+    "planforWebsite" : "Give users access to chat with an agent on real time to help them out with the booking of their trip. This feature can be very beneficial to people who need help with their bookings. It could be a differentiating feature that would make users use our website and not the competitors."
+	}
+    
+}
+
+
